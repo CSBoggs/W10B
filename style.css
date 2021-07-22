@@ -1,0 +1,22 @@
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+#selectionText {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+a {
+    padding: 2vw;
+}
+
+input {
+    text-align: center;
+    width: 8vw;
+    background-color: rgb(43, 226, 58);
+}
